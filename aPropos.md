@@ -1,6 +1,6 @@
 # Le portfolio de Schleiden Alcius
 
-Courriel : schleiden-a@outlook.fr
+📧Courriel : schleiden-a@outlook.fr
 
 Langues parlées et écrites : Français, Anglais et Créole
 
