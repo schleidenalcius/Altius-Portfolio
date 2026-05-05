@@ -6,7 +6,7 @@ Langues parlées et écrites : Français, Anglais et Créole
 
 Langue en cours d'apprentissage: Allemand 
 
-Connaissances informatiques : Git et Github, Microsoft Office (Word), Excel, Java, Html, Javascript, Php, CSS, Paint
+🛠️Connaissances informatiques : Git et Github, Microsoft Office (Word), Excel, Java, Html, Javascript, Php, CSS, Paint
 
 ---
 ## OBJECTIF PROFESSIONNEL
@@ -25,25 +25,25 @@ qu'individu tout en participant de manière significative à la communauté dans
 - Sociable, et Bonne aptitude pour la communication 
 - Créativité, originalité et sens des responsabilités 
 
-## FORMATION 
+## 🎓FORMATION 
  
 ### Tremplin DEC (en cours)
 Collège Rosemont, Montréal à distance 
-### DEC Sciences informatiques et mathématiques                                                                                                                                                                                                                                                                                                                                                                                                  
+### DEC Sciences informatiques et mathématiques                                                                                                                                                                                                                                                                                                                                                                                     
 Trois cours manquants ( interrompu)
 Collège de Bois-de-Boulogne, Montréal
 
 ### Diplôme d’études secondaire (2013)
 École secondaire Henri-Bourassa, Montréal
 
-### Distinctions
+### 🏆Distinctions
 - Obtention d’une médaille dans le concours de mathématique FERMAT       2013
 École secondaire Henri-Bourassa, Montréal
 - Certificat d’excellence en mathématiques au Gala des Henri             2009
 École secondaire Henri-Bourassa, Montréal
 
 
-## EXPÉRIENCE DE TRAVAIL
+## 💼EXPÉRIENCE DE TRAVAIL
 
 ### Assistant cuisinier (2022) 
 Kinton Ramen, Montréal
