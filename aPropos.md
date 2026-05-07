@@ -72,7 +72,7 @@ Gap-Vies, Montréal un organisme qui fait la prévention des ITSS
 
 |Mathematique|Informatique|Musique|Linguistique|
 |---|---|---|---|
-|Géométrie, Langlands programme|Programmation, Cybersécurité|Composition, Violon,Alto et Chant|Langues européenne|
+|Géométrie, Langlands programme|Programmation, Cybersécurité|Composition, Violon, Alto et Chant|Langues européenne|
 
 
 
