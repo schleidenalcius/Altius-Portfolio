@@ -70,7 +70,9 @@ Gap-Vies, Montréal un organisme qui fait la prévention des ITSS
 
 ## LOISIRS ET INTÉRÊTS
 
-|Informatique|Mathematique| 
-|---|---|
-|Jouer au Violon alto|Apprendre des langues| 
+|Mathematique|Informatique|Musique|Linguistique|
+|---|---|---|---|
+|Géométrie, Langlands programme|Programmation, Cybersécurité|Composition, Violon et Alto|Langues européenne|
+
+
 
