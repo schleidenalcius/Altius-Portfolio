@@ -6,7 +6,7 @@ Langues parlées et écrites : Français, Anglais et Créole
 
 Langue en cours d'apprentissage: Allemand 
 
-🛠️Connaissances informatiques : Git et Github, Microsoft Office (Word), Excel, Java, Html, Javascript, Php, CSS, Paint
+🛠️Connaissances informatiques : Git et Github, Bash, Word, Excel, Java, Html, Javascript, Php, CSS, Paint
 
 ---
 ## OBJECTIF PROFESSIONNEL
@@ -70,7 +70,7 @@ Gap-Vies, Montréal un organisme qui fait la prévention des ITSS
 
 ## LOISIRS ET INTÉRÊTS
 
-|Programmation|Mathematique| 
+|Informatique|Mathematique| 
 |---|---|
 |Jouer au Violon alto|Apprendre des langues| 
 
